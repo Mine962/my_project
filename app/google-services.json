@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702484761829",
+    "firebase_url": "https://lovingu-6f532.firebaseio.com",
+    "project_id": "lovingu-6f532",
+    "storage_bucket": "lovingu-6f532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702484761829:android:5cb7fa7716fbefb82c580c",
+        "android_client_info": {
+          "package_name": "net.dgsw.lovingu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702484761829-pooee1kquh1vbb3b215omca2i578dsr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.dgsw.lovingu",
+            "certificate_hash": "c25a59a69c26e6ad9cdfd0c6ef59fb1b57d121a6"
+          }
+        },
+        {
+          "client_id": "702484761829-cj1fi4ui50b9snrk79csnb95rev20gnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGWdaBn7bkTUsIWu-zJdkUEQmDCIb1yWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702484761829-cj1fi4ui50b9snrk79csnb95rev20gnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
